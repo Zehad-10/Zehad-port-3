@@ -1,0 +1,98 @@
+@media only screen and (max-width: 768px) {
+    .navbar-toggler {
+        background-color: #FF4900;
+    }
+
+    .btn-nav {
+        margin-top: 30px;
+    }
+
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: none;
+    }
+
+    .back-n {
+        margin-top: 30px !important;
+    }
+
+    .abt-img-tag {
+        left: 0px !important;
+    }
+
+    p {
+        font-size: 14px !important;
+    }
+
+    .code-title {
+        font-size: 12px !important;
+    }
+
+    .code-title i {
+        width: 36px !important;
+        height: 36px !important;
+        line-height: 36px !important;
+        border-radius: 50%;
+        font-size: 17px !important;
+        margin-right: 4px !important;
+    }
+
+    .fl-r i {
+        font-size: 17px !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .back-n {
+        margin-top: 0px !important;
+    }
+
+    .header-img {
+        margin-top: 100px;
+    }
+
+    .pl-40 {
+        padding-left: 40px;
+        margin-top: 100px;
+    }
+
+    .code-title i {
+        width: 60px !important;
+        height: 60px !important;
+        line-height: 60px !important;
+        text-align: center;
+        font-size: 30px !important;
+        margin-right: 10px !important;
+    }
+
+    .code-title {
+        font-size: 17px !important;
+    }
+
+    .fl-r i {
+        font-size: 30px !important;
+    }
+
+    .timer-background {
+        margin-bottom: 40px;
+    }
+
+    .fl-btn {
+        margin-bottom: 20px;
+    }
+
+    .item-carousel {
+        background: #111111;
+        padding: 50px 30px !important;
+        border-radius: 10px;
+    }
+
+    .blog-text {
+        margin-bottom: 40px;
+    }
+
+    .back-n {
+        margin-top: 30px !important;
+    }
+}
